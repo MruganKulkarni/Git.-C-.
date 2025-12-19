@@ -1,9 +1,20 @@
 # Daily Status Update
 
+## 14th October 2025
+
+### What I have done:
+* Created Github Workflow
+* Completed Git Program Tasks
+
+### What I will do next:
+* Completion of Programming Elements lab practice
+
+### Issues faced:
+* Understanding and Learning Git
+
 ## 15th October 2025
 
 ### What I have done:
-* Completed Git Program Tasks
 * Additional Questions sent on Whatsapp
 * Level 1 Problems Programming Elements
 
@@ -61,7 +72,7 @@
 * Arrays lab practice
 
 ### Issues faced:
-* Tackling some tough questions in Viva mainly theorotical
+* Tackling some tough questions in Viva mainly theorotical. Complete Restructuring of Github Repository.
 
 
 
